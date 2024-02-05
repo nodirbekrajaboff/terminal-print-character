@@ -1,0 +1,14 @@
+{
+  "name": "print-character",
+  "module": "app.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "stdout-update": "^4.0.0"
+  }
+}
