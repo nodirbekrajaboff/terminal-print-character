@@ -1,4 +1,5 @@
-const data = [
+// You can insert the text you want here.Just to be in the array
+const data: string[] = [
   "",
   "",
   "",
